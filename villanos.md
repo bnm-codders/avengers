@@ -2,4 +2,3 @@
 
 * dr Doom
 * redSkull
-* Capitán America
